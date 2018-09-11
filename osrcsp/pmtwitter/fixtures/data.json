@@ -1,0 +1,38 @@
+[
+{
+  "model": "pmtwitter.tweet",
+  "pk": 36,
+  "fields": {
+    "name": "John Doe",
+    "message": "Lorem ipsum dolor sit amet",
+    "created_at": "2018-09-11T03:56:46.633Z"
+  }
+},
+{
+  "model": "pmtwitter.tweet",
+  "pk": 37,
+  "fields": {
+    "name": "Jane Doe",
+    "message": "Consectetur adipisicing elit",
+    "created_at": "2018-09-11T03:57:01.821Z"
+  }
+},
+{
+  "model": "pmtwitter.tweet",
+  "pk": 38,
+  "fields": {
+    "name": "John Doe",
+    "message": "Sed do eiusmod tempor incididunt ut labore",
+    "created_at": "2018-09-11T03:57:18.051Z"
+  }
+},
+{
+  "model": "pmtwitter.tweet",
+  "pk": 39,
+  "fields": {
+    "name": "John Doe",
+    "message": "Ut enim ad minim veniam",
+    "created_at": "2018-09-11T03:57:57.851Z"
+  }
+}
+]
